@@ -1,6 +1,9 @@
 """
 This file contains the functions created by the team for the project
 
+(For the BA analysis)
+
+
 """
 
 import pandas as pd 
