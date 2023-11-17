@@ -34,15 +34,18 @@ Moreover, we will try to understand the reason leading to possible improvements 
 
 We plan to make the following croncrete analysis : 
 
-> **Regression analysis**
-> Analyze the overall rating of a beer as a function of: 
->  - binary: is the reviewer from the country of the beer ?
->  - binary: is the beer from a big company ?
->  - taste 
->  - palate 
->  - aroma 
->  - abv   
-> Goal: Is the binaries criteria influence the customer's opinions?
+> **Regression Analysis**: Determinants of Beer Ratings.     
+> Objective: To evaluate the overall rating of a beer based on a set of independent variables.      
+> Variables:     
+>    Country Match: Whether the reviewer is from the same country as the beer (Binary).    
+>    Company Size: Classification of the beer company as a large entity (Binary).    
+>    Taste: The sensory evaluation score of the beer's flavor.    
+>    Palate: The sensory evaluation score of the beer's mouthfeel.    
+>    Aroma: The sensory evaluation score of the beer's scent.    
+>    ABV (Alcohol by Volume): The percentage of alcohol contained in the beer.    
+>    Company Scale: The market size or reach of the company producing the beer.    
+> The analysis will quantify how each factor contributes to the overall satisfaction with a beer, as measured by its rating. This includes both categorical assessments (Country Match, Company Size) and continuous sensory attributes (Taste, Palate, Aroma, ABV), as well as the influence of the company's market presence.    
+
 
 > **Textual analysis**
 > Look at if there is a significant difference between reviews from “big” beers and “small” beers. Using something like doc2vec or LSI.
@@ -63,18 +66,33 @@ We plan to make the following croncrete analysis :
 
 ## Organization within the team
 
+| Team Member  | Tasks          |
+| :------------------------- |:---------------|
+| Kajetan    |   Gather all required data on mergers and acquisitions in the format discussed above (+ Homework 2)                                         |
+| Matthew  | Start doing data analysis: identify significant covariates, find interesting correlations. Make analysis discussed in "Methods".        |
+| Clara | Connecting graphs and results. Begin writing data story, create a github page for it.                                        |
+| 11-17 dec (Week 13)   |                                     |
+| 18-22 dec (Week 14)   | Finalize the data story and the report                                                        |
+
 * Each team member create the additional dataset (about company merges) of one company
     * Kajetan: AB InBev 
     * Matthew: Carlsberg
-    * Clara: heineken
+    * Clara: Heineken
     * Konstantinos: Asahi
     * Anis: Diageo 
 * Analysis:
-    * Kajetan:
+    * Kajetan: Initial analysys on the dataset. Find 
     * Matthew: Textual Analysis
     * Clara:
     * Konstantinos:
     * Anis: Regression Analysis
-* Data Story: Clara
+* Data Story:
+    * Clara: Creation of the github page. Formatting and finalization of the data story.
+    * Matthew: 
+    * Clara:
+    * Konstantinos: Creation of the interactive plots. 
+    * Anis
+* Report and notebook:
+     * 
 
 ## Questions for TA (Optional)
