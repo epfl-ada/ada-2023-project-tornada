@@ -3559,118 +3559,62 @@
 842,2017,Nya Carnegiebryggeriet,Carlsberg,Carslberg
 843,2017,Hue Brewery LTD,Carlsberg,Carslberg
 844,2017,Vena Brewery,Carlsberg,Carslberg
-0,2000,Cornish Orchards – Cidery,Asahi,Asahi
-1,2000,Boundary Road Brewery,Asahi,Asahi
-2,2000,Carlton and United Breweries (CUB),Asahi,Asahi
-3,2000,Ibaraki,Asahi,Asahi
-4,2000,Suita,Asahi,Asahi
-21,2001,Cornish Orchards – Cidery,Asahi,Asahi
-22,2001,Boundary Road Brewery,Asahi,Asahi
-23,2001,Carlton and United Breweries (CUB),Asahi,Asahi
-24,2001,Ibaraki,Asahi,Asahi
-25,2001,Suita,Asahi,Asahi
-42,2002,Cornish Orchards – Cidery,Asahi,Asahi
-43,2002,Boundary Road Brewery,Asahi,Asahi
-44,2002,Carlton and United Breweries (CUB),Asahi,Asahi
-45,2002,Ibaraki,Asahi,Asahi
-46,2002,Suita,Asahi,Asahi
-63,2003,Cornish Orchards – Cidery,Asahi,Asahi
-64,2003,Boundary Road Brewery,Asahi,Asahi
-65,2003,Carlton and United Breweries (CUB),Asahi,Asahi
-66,2003,Ibaraki,Asahi,Asahi
-67,2003,Suita,Asahi,Asahi
-84,2004,Cornish Orchards – Cidery,Asahi,Asahi
-85,2004,Boundary Road Brewery,Asahi,Asahi
-86,2004,Carlton and United Breweries (CUB),Asahi,Asahi
-87,2004,Ibaraki,Asahi,Asahi
-88,2004,Suita,Asahi,Asahi
-105,2005,Cornish Orchards – Cidery,Asahi,Asahi
-106,2005,Boundary Road Brewery,Asahi,Asahi
-107,2005,Carlton and United Breweries (CUB),Asahi,Asahi
-108,2005,Ibaraki,Asahi,Asahi
-109,2005,Suita,Asahi,Asahi
-126,2006,Cornish Orchards – Cidery,Asahi,Asahi
-127,2006,Boundary Road Brewery,Asahi,Asahi
-128,2006,Carlton and United Breweries (CUB),Asahi,Asahi
-129,2006,Ibaraki,Asahi,Asahi
-130,2006,Suita,Asahi,Asahi
-147,2007,Cornish Orchards – Cidery,Asahi,Asahi
-148,2007,Boundary Road Brewery,Asahi,Asahi
-149,2007,Carlton and United Breweries (CUB),Asahi,Asahi
-150,2007,Ibaraki,Asahi,Asahi
-151,2007,Suita,Asahi,Asahi
-168,2008,Cornish Orchards – Cidery,Asahi,Asahi
-169,2008,Boundary Road Brewery,Asahi,Asahi
-170,2008,Carlton and United Breweries (CUB),Asahi,Asahi
-171,2008,Ibaraki,Asahi,Asahi
-172,2008,Suita,Asahi,Asahi
-189,2009,Cornish Orchards – Cidery,Asahi,Asahi
-190,2009,Boundary Road Brewery,Asahi,Asahi
-191,2009,Carlton and United Breweries (CUB),Asahi,Asahi
-192,2009,Ibaraki,Asahi,Asahi
-193,2009,Suita,Asahi,Asahi
-210,2010,Cornish Orchards – Cidery,Asahi,Asahi
-211,2010,Boundary Road Brewery,Asahi,Asahi
-212,2010,Carlton and United Breweries (CUB),Asahi,Asahi
-213,2010,Ibaraki,Asahi,Asahi
-214,2010,Suita,Asahi,Asahi
-231,2011,Cornish Orchards – Cidery,Asahi,Asahi
-232,2011,Boundary Road Brewery,Asahi,Asahi
-233,2011,Carlton and United Breweries (CUB),Asahi,Asahi
-234,2011,Ibaraki,Asahi,Asahi
-235,2011,Suita,Asahi,Asahi
-252,2012,Cornish Orchards – Cidery,Asahi,Asahi
-253,2012,Boundary Road Brewery,Asahi,Asahi
-254,2012,Carlton and United Breweries (CUB),Asahi,Asahi
-255,2012,Ibaraki,Asahi,Asahi
-256,2012,Suita,Asahi,Asahi
-273,2013,Cornish Orchards – Cidery,Asahi,Asahi
-274,2013,Boundary Road Brewery,Asahi,Asahi
-275,2013,Carlton and United Breweries (CUB),Asahi,Asahi
-276,2013,Ibaraki,Asahi,Asahi
-277,2013,Suita,Asahi,Asahi
-294,2014,Cornish Orchards – Cidery,Asahi,Asahi
-295,2014,Boundary Road Brewery,Asahi,Asahi
-296,2014,Carlton and United Breweries (CUB),Asahi,Asahi
-297,2014,Ibaraki,Asahi,Asahi
-298,2014,Suita,Asahi,Asahi
-315,2015,Cornish Orchards – Cidery,Asahi,Asahi
-316,2015,Boundary Road Brewery,Asahi,Asahi
-317,2015,Carlton and United Breweries (CUB),Asahi,Asahi
-318,2015,Ibaraki,Asahi,Asahi
-319,2015,Suita,Asahi,Asahi
-336,2016,Cornish Orchards – Cidery,Asahi,Asahi
-337,2016,Boundary Road Brewery,Asahi,Asahi
-338,2016,Carlton and United Breweries (CUB),Asahi,Asahi
-339,2016,Ibaraki,Asahi,Asahi
-340,2016,Suita,Asahi,Asahi
-341,2016,Pivovar Plzeň,Asahi,Asahi
-342,2016,Pivovar Velké Popovice,Asahi,Asahi
-343,2016,Pivovar Radegast/Radegast,Asahi,Asahi
-344,2016,Meantime Brewing Company/Meantime Brewery,Asahi,Asahi
-345,2016,Pivovar Šariš,Asahi,Asahi
-346,2016,Birra Peroni Breweries Roma,Asahi,Asahi
-347,2016,Birra Peroni Breweries Bari,Asahi,Asahi
-348,2016,Birra Peroni Breweries Padova,Asahi,Asahi
-349,2016,Koninklijke Grolsch,Asahi,Asahi
-357,2017,Cornish Orchards – Cidery,Asahi,Asahi
-358,2017,Boundary Road Brewery,Asahi,Asahi
-359,2017,Carlton and United Breweries (CUB),Asahi,Asahi
-360,2017,Ibaraki,Asahi,Asahi
-361,2017,Suita,Asahi,Asahi
-362,2017,Pivovar Plzeň,Asahi,Asahi
-363,2017,Pivovar Velké Popovice,Asahi,Asahi
-364,2017,Pivovar Radegast/Radegast,Asahi,Asahi
-365,2017,Meantime Brewing Company/Meantime Brewery,Asahi,Asahi
-366,2017,Pivovar Šariš,Asahi,Asahi
-367,2017,Birra Peroni Breweries Roma,Asahi,Asahi
-368,2017,Birra Peroni Breweries Bari,Asahi,Asahi
-369,2017,Birra Peroni Breweries Padova,Asahi,Asahi
-370,2017,Koninklijke Grolsch,Asahi,Asahi
-371,2017,Browar Dojlidy Białystok,Asahi,Asahi
-372,2017,Lech Browary Wielkopolski,Asahi,Asahi
-373,2017,Tyskie Browary Książęce,Asahi,Asahi
-374,2017,Dreher Sӧrgyárak,Asahi,Asahi
-375,2017,Fabrica din Brasov,Asahi,Asahi
-376,2017,Fabrica din Timisoara,Asahi,Asahi
-377,2017,Fabrica din Buzau,Asahi,Asahi
+0,2000,Boundary Road Brewery,Asahi,Asahi
+1,2000,Asahi Breweries Ltd,Asahi,Asahi
+16,2001,Boundary Road Brewery,Asahi,Asahi
+17,2001,Asahi Breweries Ltd,Asahi,Asahi
+32,2002,Boundary Road Brewery,Asahi,Asahi
+33,2002,Asahi Breweries Ltd,Asahi,Asahi
+48,2003,Boundary Road Brewery,Asahi,Asahi
+49,2003,Asahi Breweries Ltd,Asahi,Asahi
+64,2004,Boundary Road Brewery,Asahi,Asahi
+65,2004,Asahi Breweries Ltd,Asahi,Asahi
+80,2005,Boundary Road Brewery,Asahi,Asahi
+81,2005,Asahi Breweries Ltd,Asahi,Asahi
+96,2006,Boundary Road Brewery,Asahi,Asahi
+97,2006,Asahi Breweries Ltd,Asahi,Asahi
+112,2007,Boundary Road Brewery,Asahi,Asahi
+113,2007,Asahi Breweries Ltd,Asahi,Asahi
+128,2008,Boundary Road Brewery,Asahi,Asahi
+129,2008,Asahi Breweries Ltd,Asahi,Asahi
+144,2009,Boundary Road Brewery,Asahi,Asahi
+145,2009,Asahi Breweries Ltd,Asahi,Asahi
+160,2010,Boundary Road Brewery,Asahi,Asahi
+161,2010,Asahi Breweries Ltd,Asahi,Asahi
+176,2011,Boundary Road Brewery,Asahi,Asahi
+177,2011,Asahi Breweries Ltd,Asahi,Asahi
+192,2012,Boundary Road Brewery,Asahi,Asahi
+193,2012,Asahi Breweries Ltd,Asahi,Asahi
+208,2013,Boundary Road Brewery,Asahi,Asahi
+209,2013,Asahi Breweries Ltd,Asahi,Asahi
+224,2014,Boundary Road Brewery,Asahi,Asahi
+225,2014,Asahi Breweries Ltd,Asahi,Asahi
+240,2015,Boundary Road Brewery,Asahi,Asahi
+241,2015,Asahi Breweries Ltd,Asahi,Asahi
+242,2015,Mountain Goat Beer Pty Ltd,Asahi,Asahi
+256,2016,Boundary Road Brewery,Asahi,Asahi
+257,2016,Asahi Breweries Ltd,Asahi,Asahi
+258,2016,Mountain Goat Beer Pty Ltd,Asahi,Asahi
+259,2016,Plzeňský Prazdroj,Asahi,Asahi
+260,2016,Pivovar Velké Popovice a.s.,Asahi,Asahi
+261,2016,Pivovar Radegast a.s.,Asahi,Asahi
+262,2016,Meantime Brewing Company Limited,Asahi,Asahi
+263,2016,Pivovar Saris,Asahi,Asahi
+264,2016,Birra Peroni Industriale S.p.A.,Asahi,Asahi
+265,2016,Grolsch Bierbrouwerij N.V.,Asahi,Asahi
+272,2017,Boundary Road Brewery,Asahi,Asahi
+273,2017,Asahi Breweries Ltd,Asahi,Asahi
+274,2017,Mountain Goat Beer Pty Ltd,Asahi,Asahi
+275,2017,Plzeňský Prazdroj,Asahi,Asahi
+276,2017,Pivovar Velké Popovice a.s.,Asahi,Asahi
+277,2017,Pivovar Radegast a.s.,Asahi,Asahi
+278,2017,Meantime Brewing Company Limited,Asahi,Asahi
+279,2017,Pivovar Saris,Asahi,Asahi
+280,2017,Birra Peroni Industriale S.p.A.,Asahi,Asahi
+281,2017,Grolsch Bierbrouwerij N.V.,Asahi,Asahi
+282,2017,Browar Dojlidy S.A.,Asahi,Asahi
+283,2017,Lech Browary Wielkopolski (SABMiller),Asahi,Asahi
+284,2017,Kompania Piwowarska,Asahi,Asahi
+285,2017,Tyskie Browary Ksi&#261;&#380;&#281;ce (SABMiller),Asahi,Asahi
+286,2017,Dreher Brewery,Asahi,Asahi
+287,2017,Ursus S.A. (SAB) / Compania de Bere Romania,Asahi,Asahi
