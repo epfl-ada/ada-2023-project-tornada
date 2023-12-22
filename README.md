@@ -16,6 +16,8 @@ We create a dataset for each of the 5 biggest brands of the original dataset (AB
 
 In addition, we only use the dataset from BeerAdvocate. We found that matching was not always done correctly in the matched beer dataset, and decided to keep the larger dataset in order to be sure that our data would be reliable.
 
+The additional datasets are in the 'data' folder.
+
 ## Methods
 
 We first visualize the data in different ways in order to get a feel of the dataset. Then, we perform matching on different covariates, and finish with a T-Test.
