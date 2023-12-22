@@ -5,14 +5,14 @@ def parse_reviews_to_pickle(path, output, is_first):
     all_reviews = list()
     review_dict = dict()
 
-    with open("data/RateBeer/reviews.txt") as infile:
+    with open(path) as infile:
         for i, line in enumerate(infile):
             if line == '\n':
-                if not is_first and i < 60_000_000:
+                if not is_first and i < 80_000_000:
                     continue
                 all_reviews.append(review_dict)
                 review_dict = dict()
-                if is_first and i > 60_000_000:
+                if is_first and i > 80_000_000:
                     break
             else:
                 line_splited = line.split(':')
@@ -24,6 +24,22 @@ def parse_reviews_to_pickle(path, output, is_first):
             all_reviews.append(review_dict)
 
     df = pd.DataFrame(all_reviews)
+    # df = df.astype({
+    #     'beer_name': 'str', 
+    #     'beer_id': 'int',
+    #     'brewery_name':'str',
+    #     'brewery_id': 'int',
+    #     'style': 'str',
+    #     'abv': 'float',
+    #     'date': 'int',
+    #     'user_id': 'int',
+    #     'appearance': 'int',
+    #     'aroma': 'int',
+    #     'palate': 'int',
+    #     'taste': 'int',
+    #     'overall': 'int',
+    #     'rating': 'float',
+    #     })
     df = df.astype({
         'beer_name': 'str', 
         'beer_id': 'int',
@@ -32,12 +48,12 @@ def parse_reviews_to_pickle(path, output, is_first):
         'style': 'str',
         'abv': 'float',
         'date': 'int',
-        'user_id': 'int',
-        'appearance': 'int',
-        'aroma': 'int',
-        'palate': 'int',
-        'taste': 'int',
-        'overall': 'int',
+        'user_id': 'str',
+        'appearance': 'float',
+        'aroma': 'float',
+        'palate': 'float',
+        'taste': 'float',
+        'overall': 'float',
         'rating': 'float',
         })
     df['date'] = pd.to_datetime(df['date'], unit='s')
