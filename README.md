@@ -2,7 +2,7 @@
 
 ## Title
 
-~~What~~ *Who* are you drinking?
+~~What~~  *Who* are you drinking?
 
 ## Abstract
 In this study we aim to examine the effect to a brewery's output that is caused by ownership by a large corporation. More precisely, we aim to determine if being a 'big' beer translates to obtaining lower ratings on BeerAdvocate. In doing so, we will get a better grasp of the beer industry and a better look at its key players. 
