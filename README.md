@@ -23,3 +23,7 @@ We first visualize the data in different ways in order to get a feel of the data
 ## Conclusions
 
 Being small causes a beer to receive better ratings on BeerAdvocate.
+
+## Jupyter Notebook
+
+All of the above analysis, and more, is done on the notebook P3.ipynb.
